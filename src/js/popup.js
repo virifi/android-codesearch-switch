@@ -81,7 +81,8 @@ let platforms = [
     { version: 'android-5.0.1_r1.0', level: 21 },
     { version: 'android-5.1.0_r1.0', level: 22 },
     { version: 'android-5.1.1_r1.0', level: 22 },
-    { version: 'android-5.1.1_r9.0', level: 22 }
+    { version: 'android-5.1.1_r9.0', level: 22 },
+    { version: 'android-6.0.0_r1.0', level: 23}
 ];
 
 function hideLoading() {
